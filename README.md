@@ -1,5 +1,12 @@
 ## recipe-app-api
 
 <pre>
-    tutorial for django, django-rest-framework, docker,docker-compose, travis-ci,tdd
+    - Tutorials
+        1. django
+        2. django-rest-framework
+        3. docker
+        4. docker-compose
+        5. travis-ci
+        6. tdd
+        7. flake8
 </pre>
